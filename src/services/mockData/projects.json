@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 1,
+    "name": "Product Alpha",
+    "logo": "🚀",
+    "primaryColor": "#7c3aed",
+    "userId": "user-1"
+  },
+  {
+    "Id": 2,
+    "name": "Beta Platform",
+    "logo": "⚡",
+    "primaryColor": "#059669",
+    "userId": "user-1"
+  },
+  {
+    "Id": 3,
+    "name": "Mobile App",
+    "logo": "📱",
+    "primaryColor": "#dc2626",
+    "userId": "user-1"
+  }
+]

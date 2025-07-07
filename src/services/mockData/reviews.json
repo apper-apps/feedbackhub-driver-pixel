@@ -1,0 +1,82 @@
+[
+  {
+    "Id": 1,
+    "customerName": "Sarah Johnson",
+    "rating": 5,
+    "comment": "Absolutely love this feedback system! It's incredibly intuitive and has helped us organize customer suggestions so much better. The roadmap view is particularly useful for planning our development cycles.",
+    "createdAt": "2024-01-14T16:30:00Z",
+    "projectId": "project-1"
+  },
+  {
+    "Id": 2,
+    "customerName": "Michael Chen",
+    "rating": 4,
+    "comment": "Great tool overall. The voting system works well and the interface is clean. Would love to see more integration options with other project management tools we use.",
+    "createdAt": "2024-01-13T09:15:00Z",
+    "projectId": "project-1"
+  },
+  {
+    "Id": 3,
+    "customerName": "Emma Rodriguez",
+    "rating": 5,
+    "comment": "This platform has transformed how we handle customer feedback. The drag-and-drop roadmap feature is amazing, and our team loves how easy it is to track idea progress from submission to completion.",
+    "createdAt": "2024-01-12T14:45:00Z",
+    "projectId": "project-1"
+  },
+  {
+    "Id": 4,
+    "customerName": "David Wilson",
+    "rating": 3,
+    "comment": "Good functionality but the mobile app could use some improvements. Sometimes it's slow to load and the interface isn't as responsive as the desktop version.",
+    "createdAt": "2024-01-11T11:20:00Z",
+    "projectId": "project-1"
+  },
+  {
+    "Id": 5,
+    "customerName": "Lisa Thompson",
+    "rating": 5,
+    "comment": "Excellent customer support and the platform keeps getting better with each update. The recent dashboard improvements have made it even more useful for our product team.",
+    "createdAt": "2024-01-10T13:50:00Z",
+    "projectId": "project-1"
+  },
+  {
+    "Id": 6,
+    "customerName": "James Miller",
+    "rating": 4,
+    "comment": "Very satisfied with the features and ease of use. The commenting system is great for team collaboration. Only minor issue is that export functionality could be more robust.",
+    "createdAt": "2024-01-09T08:30:00Z",
+    "projectId": "project-1"
+  },
+  {
+    "Id": 7,
+    "customerName": "Rachel Green",
+    "rating": 2,
+    "comment": "While the concept is good, we've experienced some bugs with the voting system. Votes sometimes don't register properly, and we've had to refresh the page multiple times.",
+    "createdAt": "2024-01-08T15:10:00Z",
+    "projectId": "project-1"
+  },
+  {
+    "Id": 8,
+    "customerName": "Alex Turner",
+    "rating": 5,
+    "comment": "Perfect solution for managing product feedback! The activity feed keeps everyone updated, and the status management system helps us communicate progress to stakeholders effectively.",
+    "createdAt": "2024-01-07T10:25:00Z",
+    "projectId": "project-1"
+  },
+  {
+    "Id": 9,
+    "customerName": "Sophie Brown",
+    "rating": 4,
+    "comment": "Really appreciate the clean design and user-friendly interface. The search functionality is powerful and makes finding specific feedback much easier than our previous solution.",
+    "createdAt": "2024-01-06T12:40:00Z",
+    "projectId": "project-1"
+  },
+  {
+    "Id": 10,
+    "customerName": "Tom Anderson",
+    "rating": 3,
+    "comment": "Decent platform with good basic features. However, we need more customization options for our specific workflow. The current templates are a bit limiting for our use case.",
+    "createdAt": "2024-01-05T17:15:00Z",
+    "projectId": "project-1"
+  }
+]

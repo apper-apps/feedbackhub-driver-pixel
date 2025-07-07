@@ -1,0 +1,50 @@
+[
+  {
+    "Id": 1,
+    "version": "2.4.0",
+    "title": "Dashboard Improvements & New Filters",
+    "content": "🎉 New Features:\n• Enhanced dashboard with real-time metrics\n• Advanced filtering options for ideas\n• Improved search functionality\n• New activity feed design\n\n🐛 Bug Fixes:\n• Fixed issue with vote counts not updating\n• Resolved mobile layout problems\n• Fixed timezone display issues\n\n🔧 Improvements:\n• Faster page loading times\n• Better responsive design\n• Improved error handling",
+    "publishedAt": "2024-01-15T12:00:00Z",
+    "projectId": "project-1"
+  },
+  {
+    "Id": 2,
+    "version": "2.3.1",
+    "title": "Security Updates & Performance Fixes",
+    "content": "🔒 Security:\n• Enhanced authentication system\n• Better password validation\n• Improved session management\n\n⚡ Performance:\n• Optimized database queries\n• Reduced bundle size by 15%\n• Faster API response times\n\n🐛 Bug Fixes:\n• Fixed duplicate notification bug\n• Resolved comment threading issues\n• Fixed export functionality",
+    "publishedAt": "2024-01-08T14:30:00Z",
+    "projectId": "project-1"
+  },
+  {
+    "Id": 3,
+    "version": "2.3.0",
+    "title": "Roadmap Management & Drag-and-Drop",
+    "content": "✨ Major Features:\n• New roadmap view with drag-and-drop functionality\n• Status management for ideas\n• Improved project organization\n• Enhanced comment system\n\n🎨 UI/UX:\n• New card-based design\n• Better color scheme\n• Improved typography\n• Mobile-first responsive design\n\n🛠️ Technical:\n• Upgraded to React 18\n• Better error boundaries\n• Improved accessibility",
+    "publishedAt": "2024-01-01T10:00:00Z",
+    "projectId": "project-1"
+  },
+  {
+    "Id": 4,
+    "version": "2.2.2",
+    "title": "Holiday Bug Fixes",
+    "content": "🐛 Bug Fixes:\n• Fixed critical issue with idea submission\n• Resolved email notification problems\n• Fixed user avatar display issues\n• Corrected vote synchronization\n\n⚙️ Maintenance:\n• Updated dependencies\n• Improved logging\n• Better error tracking\n• Performance monitoring",
+    "publishedAt": "2023-12-24T09:00:00Z",
+    "projectId": "project-1"
+  },
+  {
+    "Id": 5,
+    "version": "2.2.1",
+    "title": "Review System Launch",
+    "content": "🌟 New Features:\n• Customer review and rating system\n• Review analytics dashboard\n• Automated review request emails\n• Review moderation tools\n\n📊 Analytics:\n• New metrics for customer satisfaction\n• Review trend analysis\n• Improved reporting dashboard\n\n🔧 Improvements:\n• Better notification system\n• Enhanced user profiles\n• Improved search algorithms",
+    "publishedAt": "2023-12-15T16:45:00Z",
+    "projectId": "project-1"
+  },
+  {
+    "Id": 6,
+    "version": "2.2.0",
+    "title": "Multi-Project Support",
+    "content": "🏢 Enterprise Features:\n• Multi-project workspace support\n• Project-specific customization\n• Team collaboration tools\n• Advanced permission system\n\n🎯 Productivity:\n• Improved workflow management\n• Better task organization\n• Enhanced project switching\n• Streamlined user experience\n\n💼 Business:\n• New subscription tiers\n• Usage analytics\n• Custom branding options",
+    "publishedAt": "2023-12-01T11:20:00Z",
+    "projectId": "project-1"
+  }
+]

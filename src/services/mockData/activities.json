@@ -1,0 +1,86 @@
+[
+  {
+    "Id": 1,
+    "type": "idea_created",
+    "ideaTitle": "Dark Mode Theme",
+    "ideaStatus": "planned",
+    "description": "New idea submitted by user",
+    "createdAt": "2024-01-15T10:30:00Z"
+  },
+  {
+    "Id": 2,
+    "type": "idea_voted",
+    "ideaTitle": "Export Data Feature",
+    "voteCount": 32,
+    "ideaStatus": "in-progress",
+    "description": "Idea received new votes",
+    "createdAt": "2024-01-15T09:45:00Z"
+  },
+  {
+    "Id": 3,
+    "type": "status_changed",
+    "ideaTitle": "Two-Factor Authentication",
+    "newStatus": "completed",
+    "ideaStatus": "completed",
+    "description": "Idea status updated",
+    "createdAt": "2024-01-15T08:20:00Z"
+  },
+  {
+    "Id": 4,
+    "type": "idea_commented",
+    "ideaTitle": "Mobile App Performance",
+    "ideaStatus": "in-progress",
+    "description": "New comment added to idea",
+    "createdAt": "2024-01-14T16:15:00Z"
+  },
+  {
+    "Id": 5,
+    "type": "changelog_published",
+    "version": "2.4.0",
+    "description": "New version released",
+    "createdAt": "2024-01-14T12:00:00Z"
+  },
+  {
+    "Id": 6,
+    "type": "idea_voted",
+    "ideaTitle": "Bulk Operations",
+    "voteCount": 34,
+    "ideaStatus": "planned",
+    "description": "Idea received new votes",
+    "createdAt": "2024-01-14T10:30:00Z"
+  },
+  {
+    "Id": 7,
+    "type": "idea_created",
+    "ideaTitle": "Advanced Search Filters",
+    "ideaStatus": "not-planned",
+    "description": "New idea submitted by user",
+    "createdAt": "2024-01-13T14:45:00Z"
+  },
+  {
+    "Id": 8,
+    "type": "status_changed",
+    "ideaTitle": "API Rate Limiting Issues",
+    "newStatus": "in-progress",
+    "ideaStatus": "in-progress",
+    "description": "Idea status updated",
+    "createdAt": "2024-01-13T11:20:00Z"
+  },
+  {
+    "Id": 9,
+    "type": "idea_commented",
+    "ideaTitle": "Dashboard Customization",
+    "ideaStatus": "planned",
+    "description": "New comment added to idea",
+    "createdAt": "2024-01-12T15:30:00Z"
+  },
+  {
+    "Id": 10,
+    "type": "idea_voted",
+    "ideaTitle": "Dark Mode Theme",
+    "voteCount": 47,
+    "ideaStatus": "planned",
+    "description": "Idea received new votes",
+    "createdAt": "2024-01-12T09:15:00Z"
+  }
+]
